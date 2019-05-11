@@ -10,4 +10,5 @@ public class StudentServerMasterApplication {
 		SpringApplication.run(StudentServerMasterApplication.class, args);
 	}
 
+	
 }

@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: student-server
+  profiles:    active:    - local
+  cloud:
+    config:
+      uri: http://localhost:8001
+      fail-fast: true
+ 
